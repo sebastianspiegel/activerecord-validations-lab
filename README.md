@@ -4,7 +4,7 @@
 
 Add validations to these models such that...
 
-1. All authors have a name
+1. All authors have a name 
 1. No two authors have the same name
 1. Author phone numbers are exactly ten digits
 1. All posts have a title
